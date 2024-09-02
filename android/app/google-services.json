@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "283818545001",
+    "project_id": "ownchat-8ba71",
+    "storage_bucket": "ownchat-8ba71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283818545001:android:4a59c3e70517fc461237f8",
+        "android_client_info": {
+          "package_name": "com.snuggle.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283818545001-jl5mh80kjhoh3pfuf02c6up6suibthel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snuggle.chat",
+            "certificate_hash": "1aff1148384abde4e44a595cd882a65056703593"
+          }
+        },
+        {
+          "client_id": "283818545001-t1dvghj463ahmp9tj21ebvpobrpdapeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5uerz0P1Ss837qUQHQBp1wNSWUe62kzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283818545001-t1dvghj463ahmp9tj21ebvpobrpdapeg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "283818545001-1eo0196qms0pcmpqq6m9fnc23ojih6lt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.harshRajpurohit.weChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
